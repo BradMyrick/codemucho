@@ -12,7 +12,7 @@ Is a multi-platform web3 focused portfolio app built with Flutter. It is a fork 
 - Home
 - About
 - Services
-- Portfolio
+- Portfolio (coming soon)
 - Contact
 - Light and Dark Mode
 
