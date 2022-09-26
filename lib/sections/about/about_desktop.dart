@@ -81,7 +81,7 @@ class AboutDesktop extends StatelessWidget {
                       ),
                       Space.y!,
                       Row(
-                        children: kTools
+                        children: desktopTech
                             .map((e) => ToolTechWidget(
                                   techName: e,
                                 ))

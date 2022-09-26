@@ -6,7 +6,7 @@ void openURL(String url) => launchUrl(
     );
 
 // Tools & Tech
-final kTools = [
+final desktopTech = [
   "Solidity",
   "Flutter",
   "Python",
@@ -15,3 +15,5 @@ final kTools = [
   "IPFS",
   "Moralis"
 ];
+
+final mobileTech = ["Solidity", "AWS", "Moralis", "GO"];

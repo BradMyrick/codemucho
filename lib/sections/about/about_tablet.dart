@@ -79,7 +79,7 @@ class AboutTab extends StatelessWidget {
             ),
           ),
           Row(
-            children: kTools
+            children: desktopTech
                 .map(
                   (e) => ToolTechWidget(techName: e),
                 )

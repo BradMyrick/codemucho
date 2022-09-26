@@ -41,7 +41,7 @@ class HomeMobile extends StatelessWidget {
                   mainAxisSize: MainAxisSize.min,
                   children: [
                     Text(
-                      'Let\'s build Web3 together. ',
+                      'Building Web3',
                       style: AppText.b1!.copyWith(
                         fontFamily: 'Montserrat',
                       ),
@@ -84,7 +84,7 @@ class HomeMobile extends StatelessWidget {
                           textStyle: AppText.b1,
                         ),
                         TyperAnimatedText(
-                          ' Smart-Contract Developer',
+                          ' Smart-Contracts',
                           speed: const Duration(milliseconds: 50),
                           textStyle: AppText.b1,
                         ),
