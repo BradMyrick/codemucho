@@ -107,7 +107,7 @@ class HomeDesktop extends StatelessWidget {
                             textStyle: AppText.b1,
                           ),
                           TyperAnimatedText(
-                            ' Web3 Security',
+                            ' Security Specialist ',
                             speed: const Duration(milliseconds: 50),
                             textStyle: AppText.b1,
                           ),
