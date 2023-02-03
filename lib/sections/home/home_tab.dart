@@ -104,7 +104,7 @@ class HomeTab extends StatelessWidget {
                             textStyle: AppText.b1,
                           ),
                           TyperAnimatedText(
-                            ' Web3 Enthusiast',
+                            ' Web3 Security',
                             speed: const Duration(milliseconds: 50),
                             textStyle: AppText.b1,
                           ),

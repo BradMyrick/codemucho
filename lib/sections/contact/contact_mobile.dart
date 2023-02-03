@@ -16,7 +16,7 @@ class ContactMobileTab extends StatelessWidget {
           text: "\nReach Out",
         ),
         const CustomSectionSubHeading(
-          text: "\n\nLet's build Web3 together\n\n",
+          text: "\n\nBuilding a secure Web3\n\n",
         ),
         CarouselSlider.builder(
           itemCount: 1,

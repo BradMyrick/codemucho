@@ -18,7 +18,7 @@ class ContactDesktop extends StatelessWidget {
             text: "\n Reach Out",
           ),
           const CustomSectionSubHeading(
-            text: "Let's build Web3 together\n\n",
+            text: "Building a secure Web3\n\n",
           ),
           Space.y!,
           const WidgetAnimator(

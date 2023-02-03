@@ -8,7 +8,6 @@ void openURL(String url) => launchUrl(
 // Tools & Tech
 final desktopTech = [
   "Solidity",
-  "Flutter",
   "Python",
   "GO",
   "AWS",
@@ -16,4 +15,4 @@ final desktopTech = [
   "Moralis"
 ];
 
-final mobileTech = ["Solidity", "AWS", "Moralis", "GO"];
+final mobileTech = ["Solidity", "Python", "Moralis", "GO"];
