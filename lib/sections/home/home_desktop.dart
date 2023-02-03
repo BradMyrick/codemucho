@@ -50,7 +50,7 @@ class HomeDesktop extends StatelessWidget {
                   mainAxisSize: MainAxisSize.min,
                   children: [
                     Text(
-                      'Let\'s build Web3 together. ',
+                      'Building a more secure Web3.',
                       style: AppText.b1!.copyWith(
                         fontFamily: 'Montserrat',
                       ),
