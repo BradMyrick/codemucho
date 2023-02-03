@@ -7,7 +7,6 @@ class AboutUtils {
       "Hey I'm Kodr, a Web3 focused Full-Stack Engineer.";
 
   static const String aboutMeDetail =
-      " I am a US Army combat veteran with a Bachelor's in Computer Science from Full Sail University in Orlando, Florida. 
-  I have extensive experience building and deploying Dapps on EVM-compatible networks and work full-time as a Systems Engineer for Trugard Labs, a web3 cybersecurity company. I am also a contributor to the Ethereum Foundation's Security Research Community and a proud member of the Fudderverse NFT community.";
+      " I am a US Army combat veteran with a Bachelor's in Computer Science from Full Sail University in Orlando, Florida. I have extensive experience building and deploying Dapps on EVM-compatible networks and work full-time as a Systems Engineer for Trugard Labs, a web3 cybersecurity company. I am also a contributor to the Ethereum Foundation's Security Research Community and a proud member of the Fudderverse NFT community.";
 
 }
