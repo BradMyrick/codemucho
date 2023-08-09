@@ -1,6 +1,5 @@
 class AboutUtils {
   static const String name = "Brad Myrick";
-  // calculate age from date of birth
   static const String email = "brad@kodr.pro";
   static const String location = "Decentralized";
   static const String aboutMeHeadline =

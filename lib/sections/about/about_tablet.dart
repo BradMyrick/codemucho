@@ -100,10 +100,6 @@ class AboutTab extends StatelessWidget {
                     data: "Name",
                     information: AboutUtils.name,
                   ),
-                  AboutMeData(
-                    data: "Age",
-                    information: AboutUtils.age,
-                  ),
                 ],
               ),
               SizedBox(
