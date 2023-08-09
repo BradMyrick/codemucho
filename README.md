@@ -12,17 +12,9 @@ Is a multi-platform web3 focused portfolio app built with Flutter. It is a fork 
 - Home
 - About
 - Services
-- Portfolio (coming soon)
+- Portfolio
 - Contact
 - Light and Dark Mode
-
-## 🔗 Preview Images
-
-🌐 Web App:
-
-📱 Android App: 
-
-📙 Article: 
 
 
 ## 🔑 License
@@ -40,4 +32,4 @@ Follow my GitHub to stay up-to-date with my latest projects:
 🧋 Buy me a coffee if you really liked it. kodr.eth (eth/erc20)
 
 
-Copyright (c) 2022 kodr.eth
+Copyright (c) 2023 kodr.eth
