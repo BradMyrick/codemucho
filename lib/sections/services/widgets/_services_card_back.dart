@@ -71,7 +71,7 @@ class _ServiceCardBackWidget extends StatelessWidget {
                             height: 40.0,
                             onPressed: () async {
                               String email =
-                                  Uri.encodeComponent("kodr@codemucho.com");
+                                  Uri.encodeComponent("kodr@kodr.pro");
                               String subject =
                                   Uri.encodeComponent("Consultation Request");
                               String body = Uri.encodeComponent(

@@ -5,5 +5,5 @@ class ContactUtils {
 
   static const String title = "Email";
 
-  static const String details = "kodr@codemucho.com";
+  static const String details = "kodr@kodr.pro";
 }

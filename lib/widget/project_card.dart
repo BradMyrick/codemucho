@@ -41,7 +41,7 @@ class ProjectCardState extends State<ProjectCard> {
       splashColor: Colors.transparent,
       highlightColor: Colors.transparent,
       onTap: () async {
-        String email = Uri.encodeComponent("kodr@codemucho.com");
+        String email = Uri.encodeComponent("kodr@kodr.pro");
         String subject = Uri.encodeComponent("Consultation Request");
         String body = Uri.encodeComponent(
             "Kodr, I would like to request a consultation!");

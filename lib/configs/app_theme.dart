@@ -7,7 +7,7 @@ class AppTheme {
     shadowSub: const Color(0xffC0392B).withAlpha(100),
     primary: const Color(0xffC0392B),
     primaryLight: const Color(0xffC0392B).withAlpha(100),
-    textSub: const Color(0xff141414),
+    textSub: const Color(0xff141414), 
     textSub2: const Color(0xff696969),
   );
 
@@ -24,7 +24,7 @@ class AppTheme {
     background: Colors.grey[900],
     backgroundSub: const Color(0xff1c1c1e),
     scaffold: const Color(0xff0e0e0e),
-    text: Colors.white,
+    text: const Color(0xffe0e0e0),
     textSub2: Colors.white.withOpacity(0.25),
   );
 
