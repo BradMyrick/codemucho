@@ -12,7 +12,7 @@ final desktopTech = [
   "GO",
   "AWS",
   "IPFS",
-  "Moralis"
+  "Alchemy"
 ];
 
 final mobileTech = ["Solidity", "Python", "Moralis", "GO"];
