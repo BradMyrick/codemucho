@@ -21,8 +21,8 @@ Is a multi-platform web3 focused portfolio app built with Flutter. It is a fork 
 - This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
 
 #### Kodr.eth
-[![Twitter Link](https://img.shields.io/badge/Connect-Brad-blue.svg?logo=twitter&longCache=true&style=social&label=Connect
-)](https://www.twitter.com/kodr_eth)
+[![X Link](https://img.shields.io/badge/Connect-Brad-blue.svg?logo=twitter&longCache=true&style=social&label=Connect
+)](https://www.x.com/kodr_eth)
 
 Follow my GitHub to stay up-to-date with my latest projects:
 
